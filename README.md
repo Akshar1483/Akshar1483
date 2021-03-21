@@ -2,7 +2,6 @@
 I’m Akshar Patel(@akshar1483) <br> </h3>
 - 👀 I’m interested in Web-Devlopment.
 - 🌱 I’m currently learning Front-End.<br>
-- 🎓 I'm currently studying Diploma in Information Technology.
 - 💞️ I’m looking to collaborate on basic projects of frontend.
 - 📫 You can reach me on <br>
 <a href="mailto: patelakshar1483@gmail.com"><img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;"></a>
