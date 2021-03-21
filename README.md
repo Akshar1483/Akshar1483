@@ -1,5 +1,5 @@
 - <h3> 👋 Hi there ―,<br> 
-  I’m </h3> <h2>Akshar Patel</h4> <h3>(@akshar1483) <br> </h3>
+  I’m </h3> <h2>Akshar Patel (@akshar1483)</h4>  <br>
 - 👀 I’m interested in Web-Devlopment.
 - 🌱 I’m currently learning Front-End.<br>
 - 💞️ I’m looking to collaborate on basic projects of frontend.
