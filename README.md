@@ -1,11 +1,13 @@
 - <h3> 👋 Hi there ―,<br> 
   I’m </h3> <h2>Akshar Patel (@akshar1483)</h4>  <br>
 <p><em>Software Enginner at <a href="https://www.sait.ca/">Southern Alberta Institute of Technology(SAIT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> </em></p>
-- 🌱 I’m currently learning Front-End.<br>
+
+<!-- 🌱 I’m currently learning Front-End.<br>
 - 💞️ I’m looking to collaborate on basic projects.
 - 📫 You can reach me on <br>
 [![X(Twitter): akshar1483](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)]([https://x.com/akshar1483])
-[![Linkedin: akshar1483](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/akshar1483/)]
+[![Linkedin: akshar1483](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/akshar1483/)] -->
+
 ### Languages and Tools:
 
 
